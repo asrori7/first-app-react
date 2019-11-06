@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Demo
 
 You can see demo this project in [HERE](https://rori-react.surge.sh/).
 
